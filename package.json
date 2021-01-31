@@ -1,0 +1,12 @@
+{
+  "name": "workspace-registry",
+  "version": "1.0.0",
+  "main": "src/index.mjs",
+  "bin": "src/index.mjs",
+  "author": "Devon Govett <devongovett@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "tar-stream": "^2.2.0"
+  }
+}
